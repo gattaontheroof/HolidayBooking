@@ -1,0 +1,33 @@
+EC0000001, 123, Al, Bundy, ADMINISTRATION, admin, MALE, 52, 30, N
+EC0001, 123, Bob, Giraffe, IT, Analyst, MALE, 42, 32, N
+EC0003, 123, Lena, Frisby, MANAGEMENT, Senior Manager, FEMALE, 45, 30, Y
+EC0012, 123, Joey, Martin, FINANCE, Senior Accountant, MALE, 39, 30, N
+EC0023, 123, Burt, Brownish, ADMINISTRATION, Senior Administrator, MALE, 48, 30, N
+EC0027, 123, Honey, Bears, IT, Head, FEMALE, 32, 30, Y
+EC0034, 123, Sheldon, Cooper, IT, IT Support, MALE, 40, 30, N
+EC0036, 123, Luke, Skywalker, ADMINISTRATION, Head, MALE, 60, 30, Y
+EC0037, 123, Han, Solo, MAINTENANCE, Head, MALE, 61, 30, Y
+EC0039, 123, Ernie, Chang, FINANCE, Head, MALE, 34, 30, Y
+EC0045, 123, Sarah, Connor, IT, IT Support, FEMALE, 28, 30, N
+EC0046, 123, Xi, Ping, ADMINISTRATION, Administrator, FEMALE, 25, 30, N
+EC0048, 123, Adrienne, Adamson, MANAGEMENT, Junior Manager, FEMALE, 42, 30, N
+EC0049, 123, Sven, Gustavsson, FINANCE, Accountant, MALE, 26, 30, N
+EC0052, 123, Andreas, Muller, TEACHING, Lecturer, MALE, 50, 30, N
+EC0053, 123, Julia, Smith, MANAGEMENT, HR Manager, FEMALE, 58, 30, N
+EC0055, 123, Dimitri, Medvedev, TEACHING, Lecturer, MALE, 42, 30, N
+EC0058, 123, Rama, Patel, TEACHING, Lecturer, MALE, 51, 30, N
+EC0063, 123, Courtney, Jones, ADMINISTRATION, Junior Administrator, FEMALE, 23, 30, N
+EC0065, 123, Johnie, Walker, IT, IT Support, MALE, 29, 30, N
+EC0068, 123, Petra, Balova, ADMINISTRATION, Receptionist, FEMALE, 33, 30, N
+EC0069, 123, Ronald, Maggots, TEACHING, Head, MALE, 53, 30, Y
+EC0070, 123, Astrid, White, MAINTENANCE, Supervisor, FEMALE, 50, 30, N
+EC0073, 123, Peggy, Buchanan, TEACHING, Lecturer, FEMALE, 38, 30, N
+EC0076, 123, Henry, James, ADMINISTRATION, Administrator, MALE, 34, 30, N
+EC0078, 123, Teddy, Crisps, MAINTENANCE, Janitor, MALE, 59, 30, N
+EC0082, 123, Radek, Mostowski, TEACHING, Lecturer, MALE, 30, 30, N
+EC0083, 123, Evgenniy, Molotov, TEACHING, Lecturer, MALE, 43, 30, N
+EC0088, 123, Murphy, Potter, MAINTENANCE, Janitor, MALE, 45, 30, N
+EC0092, 123, Bea, Potter, TEACHING, Lecturer, FEMALE, 29, 30, N
+EC0093, 123, Hubert, Nixon, ADMINISTRATION, Administrator, MALE, 27, 30, N
+EC0095, 123, Emilia, Romana, TEACHING, Lecturer, FEMALE, 32, 30, N
+EC0100, 123, Blair, Athol, FINANCE, Accountant, MALE, 52, 30, N

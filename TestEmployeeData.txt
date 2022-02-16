@@ -1,0 +1,3 @@
+EC0001, 123, Bob, Giraffe, IT, Analyst, MALE, 42, 32, N
+EC0003, 123, Lena, Frisby, MANAGEMENT, Senior Manager, FEMALE, 45, 30, Y
+EC0012, 123, Joey, Martin, FINANCE, Senior Accountant, MALE, 39, 30, N

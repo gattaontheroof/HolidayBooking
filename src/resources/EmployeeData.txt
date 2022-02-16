@@ -1,0 +1,30 @@
+EC0003, 123, Lena, Frisby, Management, Senior Manager, Female, 45, 30, Y
+EC0012, 123, Jacques, Martin, Finance, Senior Accountant, Male, 39, 30, N 
+EC0023, 123, Burt, Brownish, Administration, Senior Administrator, Male, 48, 30, N
+EC0027, 123, Honey, Bears, IT, Head, Female, 32, 30, Y
+EC0034, 123, Sheldon, Cooper, IT, IT Support, Male, 40, 30, N
+EC0036, 123, Luke, Skywalker, Administration, Head, Male, 60, 30, Y
+EC0037, 123, Han, Solo, Maintenance, Head, Male, 61, 30, Y
+EC0039, 123, Ernie, Chang, Finance, Head, Male, 34, 30, Y
+EC0045, 123, Sarah, Connor, IT, IT Support, Female, 28, 30, N
+EC0046, 123, Xi, Ping, Administration, Administrator, Female, 25, 30, N
+EC0048, 123, Adrienne, Adamson,  Management, Junior Manager, Female, 42, 30, N
+EC0049, 123, Sven, Gustavsson, Finance, Accountant, Male, 26, 30, N
+EC0052, 123, Andreas, Comodos, Teaching, Lecturer, Male, 50, 30, N
+EC0053, 123, Julia, Smith, Management, HR Manager, Female, 58, 30, N
+EC0055, 123, Dimitri, Medvedev, Teaching, Lecturer, Male, 42, 30, N
+EC0058, 123, Rama, Patel, Teaching, Lecturer, Male, 51, 30, N
+EC0063, 123, Courtney, Jones, Administration, Junior Administrator, Female, 23, 30, N
+EC0065, 123, Johnie, Walker, IT, IT Support, Male, 29, 30, N
+EC0068, 123, Petra, Balova, Administration, Receptionist, Female, 33, 30, N
+EC0069, 123, Ronald, Maggots, Teaching, Head, Male, 53, 30, Y
+EC0070, 123, Astrid, White, Maintenance, Supervisor, Female, 50, 30, N
+EC0073, 123, Peggy, Buchanan, Teaching, Lecturer, Female, 38, 30, N
+EC0076, 123, Henry, James, Administration, Administrator, Male, 34, 30, N
+EC0078, 123, Teddy, Crisps, Maintenance, Janitor, Male, 59, 30, N
+EC0082, 123, Radek, Mostowski, Teaching, Lecturer, Male, 30, 30, N
+EC0083, 123, Evgenniy, Molotov, Teaching, Lecturer, Male, 43, 30, N
+EC0088, 123, Murphy, Potter, Maintenance, Janitor, Male, 45, 30, N
+EC0092, 123, Bea, Potter, Teaching, Lecturer, Female, 29, 30, N
+EC0093, 123, Hubert, Nixon, Administration, Administrator, Male, 27, 30, N
+EC0095, 123, Emilia, Romana, Teaching, Lecturer, Female, 32, 30, N
